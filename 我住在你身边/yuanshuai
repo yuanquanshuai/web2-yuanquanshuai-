@@ -1,0 +1,6 @@
+echo "# web2-yuanquanshuai-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/yuanquanshuai/web2-yuanquanshuai-.git
+git push -u origin master
