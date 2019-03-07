@@ -1,0 +1,42 @@
+
+web前端工程化：
+（包含）
+模块化：协同工作 js(主要）
+组件化：行为 方便维护
+自动化：
+打包：js依赖
+
+
+commonJS 后端 nodejs
+AMD(requirejs) 异步模块化
+cMD (seajS) 通用模块化定义
+ES6  必须打包 欧洲计算机协会定义的规则
+
+
+入口文件
+
+npm 自动化  包 就是模块 就是一个项目  59289488
+
+雅虎军规
+
+
+npm init -y
+
+npm i webpack@3----->{package.json  scripts-->"dev" :"webpack ./a.js ./build.js"}//webpack@4以上  还要下一个cli
+
+npm run dev
+
+
+package.json 包的配置文件
+package-lock.json 锁定包的配置
+
+
+let $=require('jquery');
+
+
+devel
+
+
+svn
+
+
